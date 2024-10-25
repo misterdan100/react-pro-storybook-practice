@@ -1,3 +1,8 @@
+# Components created in React Pro course by Fernando Herrera
+Install
+```
+npm i dmc-custom-components
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
